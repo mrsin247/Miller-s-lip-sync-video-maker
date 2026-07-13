@@ -1,0 +1,6 @@
+{
+  "name": "LipSync Studio",
+  "description": "Custom workspace to set up, build, and deploy complete AI lip-sync video pipelines via free-tier services like Google Colab and Kaggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
